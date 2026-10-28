@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/adrianssm78/AcuarioPro/releases/download/Versiones/AcuarioPro_v1.0.9.apk",
+  "version": "1.0.8",
+  "url": "https://github.com/adrianssm78/AcuarioPro/releases/download/Versiones/AcuarioPro_v1.0.8.apk",
   "notas": "• Tipo de alimento inteligente (Hojuela, Bolita, Granulado, Mixto).\n• Lógica de sacudidas corregida para acuarios con muchos peces.\n• Ajuste de amplitud del servo según el alimento seleccionado.\n• Mejoras de rendimiento y estabilidad."
 }
