@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/adrianssm78/AcuarioPro/releases/download/Versiones/AcuarioPro_v1.0.8.apk",
-  "notas": "• Tipo de alimento inteligente (Hojuela, Bolita, Granulado, Mixto).\n• Lógica de sacudidas corregida para acuarios con muchos peces.\n• Ajuste de amplitud del servo según el alimento seleccionado.\n• Mejoras de rendimiento y estabilidad."
+  "version": "1.0.9",
+  "url": "https://github.com/adrianssm78/AcuarioPro/releases/download/Versiones/AcuarioPro_v1.0.9.apk",
+  "notas": "🚀 **Novedades en AcuarioPro V1.0.8**\n\n• 🍽️ **Alimentación Inteligente:** Implementación del cálculo automático del alimento principal según las especies registradas (Hojuela, Bolita, Granulado, Mixto).\n• 🐟 **Lógica de Temperatura Corregida:** El sistema ahora calcula la temperatura ideal basándose en un promedio por *especies únicas* y no por cantidad de peces, garantizando un entorno perfecto para cada tipo de pez.\n• ⚙️ **Control de Servo Optimizado:** Ajuste dinámico de la amplitud y las sacudidas del servo según el tipo de alimento y la población total del acuario.\n• 🔒 **Seguridad Mejorada:** Validación estricta en la vinculación de dispositivos para evitar que usuarios no autorizados accedan a acuarios ya registrados.\n• 📊 **Estabilidad y Rendimiento:** Corrección de errores de ciclo de vida en la app, mejoras en la sincronización con Firestore y optimización del envío de datos al ESP32.\n• 🌡️ **Sincronización de Temperaturas:** Forzado de tipo de dato correcto para asegurar que el ESP32 actualice las temperaturas mínima y máxima sin fallos."
 }
