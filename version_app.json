@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/adrianssm78/AcuarioPro/releases/download/Versiones/AcuarioPro_v1.1.0.apk",
+  "version": "1.1.1",
+  "url": "https://github.com/adrianssm78/AcuarioPro/releases/download/Versiones/AcuarioPro_v1.1.1.apk",
   "notas": "**Novedades en AcuarioPro V1.1.0**\n\n• **Alimentación Inteligente:** Implementación del cálculo automático del alimento principal según las especies registradas (Hojuela, Bolita, Granulado, Mixto).\n• **Lógica de Temperatura Corregida:** El sistema calcula la temperatura ideal basándose en un promedio por especies, garantizando un entorno equilobrado para los peces.\n• **Control del alimentador:** Ajuste dinámico de la amplitud y las sacudidas según el tipo de alimento y la población total del acuario.\n• **Seguridad Mejorada:** Validación estricta en la vinculación de dispositivos.\n•  **Estabilidad y Rendimiento:** Corrección de errores, mejoras en la sincronización APP y Dispositivo.\n• **Sincronización de Temperaturas:** Actualización del dispositivo desde el resumen en base a sugerencias automáticas."
 }
