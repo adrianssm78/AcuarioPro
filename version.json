@@ -1,8 +1,8 @@
 {
-  "version": "V.3.1.1",
-  "versionCode": "311",
-  "url": "https://github.com/adrianssm78/AcuarioPro/releases/download/Versiones/acuario_v3.1.1.bin",
-  "fecha": "2026-10-29 20:00:00 hrs",
-  "notas": "Version inicial con OTA - SISTEMSMAS Acuario Pro",
+  "version": "V.3.1.5",
+  "code": "315",
+  "url": "https://github.com/adrianssm78/AcuarioPro/releases/download/Versiones/acuario_v3.1.5.bin",
+  "fecha": "2026-11-01 15:13:00 hrs",
+  "notas": "V3.1.5 - Bitmask de dias, ultimaConexion, anti-downgrade OTA, DESVINCULAR",
   "fabricante": "SISTEM SMAS"
 }
