@@ -1,8 +1,8 @@
 {
-  "version": "V.3.1.6",
-  "code": "316",
-  "url": "https://github.com/adrianssm78/AcuarioPro/releases/download/Versiones/acuario_v3.1.6.bin",
-  "fecha": "2026-11-02 20:57:00 hrs",
-  "notas": "V3.1.6 - Bitmask de dias, ultimaConexion, anti-downgrade OTA, DESVINCULAR, Horarios de luces, comidas con dias de la semana, compatible con la AcuarioPro V1.1.3",
+  "version": "V.3.1.7",
+  "code": "317",
+  "url": "https://github.com/adrianssm78/AcuarioPro/releases/download/Versiones/acuario_v3.1.7.bin",
+  "fecha": "2026-11-03 18:47:00 hrs",
+  "notas": "V3.1.7 - Bitmask de dias, ultimaConexion, anti-downgrade OTA, DESVINCULAR, Horarios de luces, comidas con dias de la semana, compatible con la AcuarioPro V1.1.3",
   "fabricante": "SISTEM SMAS"
 }
